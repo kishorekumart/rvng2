@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<path fill="#B32480" stroke="#B32480" stroke-width="0.9857" stroke-miterlimit="10" d="M63.917,1
+	C29.074,1,0.833,29.241,0.833,64.083c0,34.843,28.241,63.083,63.083,63.083S127,98.927,127,64.083C127,29.241,98.76,1,63.917,1z
+	 M63.917,124.428c-33.326,0-60.337-27.02-60.337-60.344c0-33.326,27.011-60.337,60.337-60.337c33.32,0,60.344,27.012,60.344,60.337
+	C124.261,97.408,97.237,124.428,63.917,124.428z"/>
+<rect x="83.943" y="56.095" transform="matrix(-1 -0.0019 0.0019 -1 173.0217 145.2526)" fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" width="5.27" height="32.902"/>
+<path fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" d="M92.693,50.362L78.576,39.717L64.461,29
+	L50.234,39.66L36.078,50.249l-0.066-0.002l-0.013,5.744l56.75,0.113l0.013-5.744L92.693,50.362z M64.426,47.439
+	c-2.187-0.003-3.9-1.923-3.894-4.248c0.006-2.365,1.726-4.307,3.909-4.302c2.12,0.003,3.885,1.953,3.881,4.317
+	C68.318,45.532,66.546,47.442,64.426,47.439z"/>
+<rect x="75.029" y="56.075" transform="matrix(-1 -0.002 0.002 -1 155.1738 145.2041)" fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" width="5.257" height="32.902"/>
+<rect x="57.338" y="56.039" transform="matrix(-1 -0.0026 0.0026 -1 119.7469 145.1361)" fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" width="5.259" height="32.902"/>
+<polygon fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" points="71.507,88.959 66.257,88.953 66.32,56.051 
+	71.574,56.061 "/>
+<rect x="48.531" y="56.061" transform="matrix(-1 -0.0024 0.0024 -1 102.1446 145.1053)" fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" width="5.257" height="32.861"/>
+<rect x="39.589" y="56.002" transform="matrix(-1 -0.0024 0.0024 -1 84.2604 145.009)" fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" width="5.257" height="32.902"/>
+<polygon fill="none" stroke="#B32480" stroke-width="2" stroke-miterlimit="10" points="95.758,95.625 95.768,92.318 92.727,92.316 
+	92.734,89.008 36,88.893 35.992,92.201 32.444,92.195 32.438,95.497 28.881,95.488 28.875,98.859 98.807,99 98.813,95.628 "/>
+</svg>

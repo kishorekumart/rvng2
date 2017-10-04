@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<circle fill="#3F51B5" cx="11" cy="11" r="11"/>
+<g id="Layer_2">
+	<g>
+		<polygon fill="#FFFFFF" points="9,4.887 5.75,4.887 5.75,18 15.654,18 15.654,11.725 14.902,11.725 14.876,16.829 6.54,16.829 
+			6.553,6.198 9,6.164 		"/>
+		<polygon fill="#FFFFFF" points="16.25,6.704 14.182,6.704 14.182,4 13.208,4 13.208,6.704 11.146,6.704 11.146,8.004 
+			13.208,8.004 13.208,10.812 14.182,10.812 14.182,8.004 16.25,8.004 		"/>
+		<rect x="7.722" y="8.898" fill="#FFFFFF" width="4.034" height="1.148"/>
+		<rect x="7.722" y="11.444" fill="#FFFFFF" width="4.034" height="1.048"/>
+		<rect x="7.722" y="13.646" fill="#FFFFFF" width="4.034" height="1.376"/>
+	</g>
+</g></svg>

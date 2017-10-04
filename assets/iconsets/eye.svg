@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg class="eyesvg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="12.5px" height="8.5px" viewBox="0 0 12.5 8.5" enable-background="new 0 0 12.5 8.5" xml:space="preserve">
+<path fill="#FF4081" d="M6.25,0.25c-2.68,0-4.984,1.645-6,4c1.016,2.355,3.32,4,6,4c2.683,0,4.982-1.645,6-4
+	C11.232,1.895,8.933,0.25,6.25,0.25z M6.25,6.918c-1.475,0-2.666-1.193-2.666-2.668c0-1.473,1.193-2.666,2.666-2.666
+	S8.917,2.777,8.917,4.25C8.917,5.725,7.723,6.918,6.25,6.918z"/>
+<ellipse fill="#FF4081" cx="6.313" cy="4.25" rx="1.684" ry="1.721"/>
+</svg>

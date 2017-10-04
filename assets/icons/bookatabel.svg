@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+	<polygon fill="#E3744E" points="9.828,6.317 9,3.872 8.169,6.317 7.118,5.543 9,0 10.882,5.543 	"/>
+	<polygon fill="#E05323" points="9.828,6.317 9,3.872 9,0 10.882,5.543 	"/>
+	<rect x="8.412" y="8.237" fill="#AB7315" width="1.175" height="8.923"/>
+		<rect x="1.212" y="12.575" fill="#744E12" width="3.583" height="1.723"/>
+		<rect x="0.624" y="11.157" fill="#744E12" width="1.175" height="6.843"/>
+		<rect x="4.209" y="11.157" fill="#744E12" width="1.173" height="6.843"/>
+	<polygon fill="#AB7315" points="5.998,11.964 0,11.964 0,2.094 1.173,2.094 1.173,10.241 5.998,10.241 	"/>
+		<rect x="13.204" y="12.575" fill="#744E12" width="3.583" height="1.723"/>
+		<rect x="16.2" y="11.157" fill="#744E12" width="1.173" height="6.843"/>
+		<rect x="12.618" y="11.157" fill="#744E12" width="1.173" height="6.843"/>
+	<polygon fill="#AB7315" points="12.002,11.964 18,11.964 18,2.094 16.826,2.094 16.826,10.241 12.002,10.241 	"/>
+	<path fill="#744E12" d="M14.091,9.095H3.91V5.931h10.181V9.095L14.091,9.095z"/>
+	<rect x="2.964" y="5.074" fill="#AB7315" width="12.072" height="1.722"/>
+	<rect x="6.946" y="16.273" fill="#744E12" width="4.106" height="1.727"/>
+</svg>

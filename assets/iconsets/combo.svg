@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="Layer_1">
+	<circle fill="#00897B" cx="15.979" cy="16" r="16"/>
+</g>
+<g id="Layer_2">
+	<path fill="#FFFFFF" d="M22.239,6.285L20.326,5l-1.913,1.285L16.5,5l-1.913,1.285L12.674,5l-1.914,1.285L8.848,5v2.507v0.956
+		v18.059C8.848,26.786,9.062,27,9.326,27h14.348c0.264,0,0.479-0.214,0.479-0.479V8.463V7.507V5L22.239,6.285z"/>
+</g>
+</svg>

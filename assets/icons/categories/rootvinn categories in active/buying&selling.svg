@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<path fill="#2BD8C3" stroke="#2BD8C3" stroke-width="0.9882" stroke-miterlimit="10" d="M64,1.125
+	c-34.9,0-63.188,28.337-63.188,63.301c0,34.963,28.287,63.301,63.188,63.301c34.901,0,63.188-28.338,63.188-63.301
+	C127.188,29.462,98.901,1.125,64,1.125z M64,124.978c-33.381,0-60.437-27.112-60.437-60.552C3.563,30.985,30.619,3.88,64,3.88
+	c33.375,0,60.443,27.104,60.443,60.545C124.443,97.865,97.375,124.978,64,124.978z"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="27.933" y1="41.141" x2="67.736" y2="29.427"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="62.594" y1="99.427" x2="97.693" y2="88.675"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="62.745" y1="51.123" x2="97.945" y2="39.796"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="27.933" y1="89.223" x2="63.045" y2="99.427"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="67.238" y1="29.427" x2="97.693" y2="39.931"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="27.933" y1="41.163" x2="63.045" y2="51.345"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="28.182" y1="41.141" x2="27.979" y2="89.195"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="97.693" y1="39.856" x2="97.408" y2="89.223"/>
+<line fill="none" stroke="#2BD8C3" stroke-width="2" stroke-miterlimit="10" x1="62.848" y1="51.345" x2="62.695" y2="99.427"/>
+<text transform="matrix(1.0171 0.2995 -0.3217 0.9468 32.7886 71.7529)" fill="#2BD8C3" font-family="'MyriadPro-Regular'" font-size="12.1853">Buy</text>
+<text transform="matrix(1.0171 0.2995 -0.3217 0.9468 32.7886 71.7529)" fill="none" stroke="#2BD8C3" stroke-width="0.25" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="12.1853">Buy</text>
+<text transform="matrix(1.007 -0.324 0.3481 0.9375 73.3701 78.3223)" fill="#2BD8C3" font-family="'MyriadPro-Regular'" font-size="12.201">Sell</text>
+<text transform="matrix(1.007 -0.324 0.3481 0.9375 73.3701 78.3223)" fill="none" stroke="#2BD8C3" stroke-width="0.25" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="12.201">Sell</text>
+<text transform="matrix(1.0742 0 0 1 46.6826 45.457)" fill="#2BD8C3" font-family="'MyriadPro-Regular'" font-size="12.1014">Trade</text>
+<text transform="matrix(1.0742 0 0 1 46.6826 45.457)" fill="none" stroke="#2BD8C3" stroke-width="0.25" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="12.1014">Trade</text>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px"
+	 height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
+	<polygon fill="#a20025" points="59.413,48.145 41.12,29.965 59.302,11.673 48.147,0.587 29.967,18.879 11.675,0.7 0.589,11.854 
+		18.881,30.034 0.7,48.326 11.855,59.412 30.035,41.119 48.327,59.301 	"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="30.0005" y1="0.5874" x2="30.0005" y2="59.4126">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.73"/>
+		<stop  offset="1" style="stop-color:#231F20;stop-opacity:0"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1_)" points="59.413,48.145 41.12,29.964 59.302,11.672 48.147,0.587 29.966,18.878 11.674,0.699 
+		0.588,11.853 18.88,30.033 0.699,48.326 11.854,59.412 30.034,41.119 48.327,59.301 	"/>
+</svg>

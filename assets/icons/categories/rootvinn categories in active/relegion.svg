@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<path fill="#34FF81" stroke="#01FF62" stroke-width="0.987" stroke-miterlimit="10" d="M64,0.75C29.157,0.75,0.917,29.065,0.917,64
+	c0,34.936,28.241,63.25,63.083,63.25c34.843,0,63.083-28.314,63.083-63.25C127.083,29.065,98.843,0.75,64,0.75z M64,124.504
+	C30.674,124.504,3.663,97.412,3.663,64C3.663,30.586,30.674,3.503,64,3.503c33.321,0,60.344,27.083,60.344,60.497
+	C124.344,97.412,97.32,124.504,64,124.504z"/>
+<rect x="50.523" y="71.354" fill="none" stroke="#01FF62" stroke-width="2.6656" stroke-miterlimit="10" width="26.045" height="4.551"/>
+<rect x="43.193" y="79.436" fill="none" stroke="#01FF62" stroke-width="2.6656" stroke-miterlimit="10" width="40.704" height="4.545"/>
+<rect x="28.629" y="95.421" fill="none" stroke="#01FF62" stroke-width="2.6656" stroke-miterlimit="10" width="70.012" height="4.54"/>
+<rect x="35.953" y="87.535" fill="none" stroke="#01FF62" stroke-width="2.6656" stroke-miterlimit="10" width="55.354" height="4.54"/>
+<path fill="none" stroke="#01FF62" stroke-width="3.5541" stroke-miterlimit="10" d="M83.916,42.958
+	c-1.461,0-2.825,0.307-4.12,0.849c-1.76-7.948-8.306-13.845-16.164-13.845c-7.84,0-14.394,5.897-16.157,13.845
+	c-1.277-0.542-2.666-0.849-4.116-0.849c-6.331,0-11.44,5.559-11.44,12.433c0,6.864,5.109,12.425,11.44,12.425h14.154v-11.08h0.059
+	c0.378-2.723,2.94-4.84,6.057-4.84c3.131,0,5.691,2.117,6.066,4.84h0.05v11.08h16.004V67.65c5.444-0.955,9.597-6.074,9.597-12.26
+	C95.346,48.516,90.243,42.958,83.916,42.958z"/>
+</svg>
